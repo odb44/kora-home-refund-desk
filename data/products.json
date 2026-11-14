@@ -1,0 +1,10 @@
+[
+  {"sku": "KH-BLD-200", "name": "PowerBlend 200 Blender",          "category": "kitchen",  "list_price": 89.99,   "warranty_months": 12, "final_sale": false},
+  {"sku": "KH-AF-550",  "name": "CrispAir XL Air Fryer",           "category": "kitchen",  "list_price": 149.00,  "warranty_months": 12, "final_sale": false},
+  {"sku": "KH-FR-900",  "name": "FrostLine Double-Door Fridge",    "category": "large",    "list_price": 1249.00, "warranty_months": 24, "final_sale": false},
+  {"sku": "KH-WM-700",  "name": "AquaSpin 8kg Washing Machine",    "category": "large",    "list_price": 699.00,  "warranty_months": 24, "final_sale": false},
+  {"sku": "KH-MW-300",  "name": "QuickWave 25L Microwave",         "category": "kitchen",  "list_price": 129.50,  "warranty_months": 12, "final_sale": false},
+  {"sku": "KH-VC-400",  "name": "DustAway Robot Vacuum (Clearance)","category": "cleaning", "list_price": 399.00,  "warranty_months": 12, "final_sale": true},
+  {"sku": "KH-KT-100",  "name": "BrewMate Electric Kettle",        "category": "kitchen",  "list_price": 39.99,   "warranty_months": 6,  "final_sale": false},
+  {"sku": "KH-AC-1200", "name": "CoolBreeze 12k BTU Air Conditioner","category": "large",  "list_price": 549.00,  "warranty_months": 24, "final_sale": false}
+]

@@ -1,0 +1,3 @@
+[
+  {"refund_id": "RF-0001", "order_id": "ORD-5010", "amount": 84.99, "reason": "change_of_mind", "ticket_id": "TCK-0999", "issued_by": "human:j.adeyemi", "issued_at": "2026-09-02T10:14:00"}
+]

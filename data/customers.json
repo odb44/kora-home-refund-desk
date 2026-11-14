@@ -1,0 +1,7 @@
+[
+  {"customer_id": "C-1001", "name": "Amara Okafor",  "email": "amara.okafor@example.com",  "tier": "standard", "phone": "+1-555-0101"},
+  {"customer_id": "C-1002", "name": "Daniel Mensah", "email": "daniel.mensah@example.com", "tier": "gold",     "phone": "+1-555-0102"},
+  {"customer_id": "C-1003", "name": "Sofia Reyes",   "email": "sofia.reyes@example.com",   "tier": "standard", "phone": "+1-555-0103"},
+  {"customer_id": "C-1004", "name": "Tunde Bakare",  "email": "tunde.bakare@example.com",  "tier": "gold",     "phone": "+1-555-0104"},
+  {"customer_id": "C-1005", "name": "Priya Nair",    "email": "priya.nair@example.com",    "tier": "standard", "phone": "+1-555-0105"}
+]

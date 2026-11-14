@@ -1,0 +1,13 @@
+[
+  {"order_id": "ORD-5001", "customer_id": "C-1001", "sku": "KH-BLD-200", "price_paid": 89.99,   "order_date": "2026-09-30", "delivered_date": "2026-10-04", "status": "delivered"},
+  {"order_id": "ORD-5002", "customer_id": "C-1001", "sku": "KH-KT-100",  "price_paid": 39.99,   "order_date": "2025-11-26", "delivered_date": "2025-12-01", "status": "delivered"},
+  {"order_id": "ORD-5011", "customer_id": "C-1001", "sku": "KH-MW-300",  "price_paid": 129.50,  "order_date": "2026-08-27", "delivered_date": "2026-09-01", "status": "delivered"},
+  {"order_id": "ORD-5003", "customer_id": "C-1002", "sku": "KH-AF-550",  "price_paid": 149.00,  "order_date": "2026-09-24", "delivered_date": "2026-09-28", "status": "delivered"},
+  {"order_id": "ORD-5004", "customer_id": "C-1002", "sku": "KH-FR-900",  "price_paid": 1249.00, "order_date": "2026-03-10", "delivered_date": "2026-03-16", "status": "delivered"},
+  {"order_id": "ORD-5005", "customer_id": "C-1003", "sku": "KH-VC-400",  "price_paid": 399.00,  "order_date": "2026-10-06", "delivered_date": "2026-10-10", "status": "delivered"},
+  {"order_id": "ORD-5006", "customer_id": "C-1003", "sku": "KH-MW-300",  "price_paid": 129.50,  "order_date": "2026-10-09", "delivered_date": "2026-10-13", "status": "delivered"},
+  {"order_id": "ORD-5007", "customer_id": "C-1004", "sku": "KH-WM-700",  "price_paid": 699.00,  "order_date": "2026-09-15", "delivered_date": "2026-09-20", "status": "delivered"},
+  {"order_id": "ORD-5008", "customer_id": "C-1004", "sku": "KH-AC-1200", "price_paid": 549.00,  "order_date": "2026-07-27", "delivered_date": "2026-08-01", "status": "delivered"},
+  {"order_id": "ORD-5009", "customer_id": "C-1005", "sku": "KH-AF-550",  "price_paid": 149.00,  "order_date": "2026-10-12", "delivered_date": null,         "status": "in_transit"},
+  {"order_id": "ORD-5010", "customer_id": "C-1005", "sku": "KH-BLD-200", "price_paid": 84.99,   "order_date": "2026-08-15", "delivered_date": "2026-08-20", "status": "delivered"}
+]

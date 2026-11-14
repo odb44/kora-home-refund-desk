@@ -1,0 +1,44 @@
+# Runtime output
+.env
+sessions/
+logs/
+tickets/
+data/refund_ledger.json
+__pycache__/
+
+# Python environments and generated files
+.venv/
+venv/
+*.py[cod]
+
+# Frontend dependencies and builds
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# Editor / operating-system files
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+
+# Explicitly exclude backend runtime and secret files
+starter/.env
+starter/sessions/
+starter/logs/
+starter/tickets/
+starter/__pycache__/
+
+# Local environment files
+.env.*
+!.env.example
+
+# Generated Python and test artefacts
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/

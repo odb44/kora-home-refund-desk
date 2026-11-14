@@ -1,0 +1,14 @@
+[project]
+name = "kora-refund-desk-classwork-git"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "boto3>=1.43.114",
+    "fastapi>=0.115.0",
+    "uvicorn[standard]>=0.30.0",
+    "mcp>=1.26.0,<2.0.0",
+    "pydantic>=2.14.1",
+    "python-dotenv>=1.2.4",
+    "strands-agents>=1.61.1",
+    "strands-agents-tools>=0.8.9",
+]
