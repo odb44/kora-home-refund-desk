@@ -220,3 +220,7 @@ This is a local portfolio and classwork demonstration, not a production-ready cu
 
 **Kora Home Refund Desk — Ada**  
 *AI-assisted customer support with policy-driven refund controls and human oversight.*
+
+
+## Author
+### Bamigbele Oluwaseun
